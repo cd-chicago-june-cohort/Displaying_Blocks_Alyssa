@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+    width: 970px;
+    background: tan;
+    padding: 10px; 
+}
+
+#header{
+    margin: auto;
+    text-align: center;
+}
+
+#header img, #header h1{
+    display: inline-block;
+    margin: auto;
+}
+
+.header_pic{
+    height: 50px;
+    background: white;
+}
+
+#pic_grid{
+    text-align:center
+}
+
+.pic{
+    display: inline-block;
+    padding: 10px;
+    margin: 3px auto;
+    
+    border: 2px solid black;
+}
+
+.blue{
+    background: cornflowerblue;
+}
+
+.pink{
+    background: crimson;
+}
+.pic img{
+    height: 150px;
+    width: 150px;
+}
